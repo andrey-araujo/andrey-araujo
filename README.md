@@ -1,7 +1,7 @@
 ### Oi, me chamo Andrey!
 
 - 👷🏼 I’m currently working with Front and Back-end mobile development.
-- 🧟 I’m currently learning Flutter, Python and Java.
+- 🧟 I’m learning Flutter, Python and Java.
 
 <div align="center">
   <a href="https://github.com/andrey-araujo">
