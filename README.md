@@ -1,8 +1,7 @@
 ### Oi, me chamo Andrey!
 
-- 👷🏼 I’m currently working with Front and Back-end mobile development.
-- 🧟 I’m learning Flutter and Python.
-
+- 👷🏼 I’m currently working with Front and Back-end development.
+- 🧟 I’m learning Flutter, Python and React.
 <div align="center">
   <a href="https://github.com/andrey-araujo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrey-araujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
